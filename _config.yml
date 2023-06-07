@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://subhashhalder.com"
 
 github:
-  username: amsubhash # change to your github username
+  username: subhash-halder # change to your github username
 
 twitter:
   username: iSubhashHalder # change to your twitter username
@@ -42,10 +42,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/iSubhashHalder # change to your twitter homepage
-    - https://github.com/amsubhash # change to your github homepage
+    - https://github.com/subhash-halder # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/amsubhash/
+    - https://www.linkedin.com/in/subhash-halder/
 
 google_site_verification: # fill in to your verification string
 
@@ -96,7 +96,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: amsubhash/subhashhalder.com # <gh-username>/<repo>
+    repo: subhash-halder/subhashhalder.com # <gh-username>/<repo>
     repo_id: R_kgDOJoIMGw
     category: General
     category_id: DIC_kwDOJoIMG84CWxpI

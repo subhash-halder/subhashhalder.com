@@ -5,7 +5,6 @@ author: subhash
 date: 2022-05-23T18:00:00+05:30
 categories: ["Productivity", "Gmail", "AppScript", "Organization", "Automation"]
 tags: ["organize your gmail inbox", "use appscript to automate your gmail inbox", "how to stay on top of your gmail inbox", "the ultimate guide to organizing your gmail inbox with appscript"]
-pin: true
 math: true
 mermaid: true
 ---

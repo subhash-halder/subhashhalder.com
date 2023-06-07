@@ -5,7 +5,6 @@ author: subhash
 date: 2022-04-18T10:15:53+05:30
 categories: ["tutorial", "ssh"]
 tags: ["ssh reverse tunneling", "http tunneling", "socket tunneling"]
-pin: true
 math: true
 mermaid: true
 image:
