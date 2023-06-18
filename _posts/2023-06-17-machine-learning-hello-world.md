@@ -57,7 +57,7 @@ const input = [
 ];
 ```
 
-Since the input is very small so we can tell the answer will be `y = x * 2`, but it will be not easy to guess if you have millions of data. But from the data we can say the equation will be something like $$ y = x \* weight $$.
+Since the input is very small so we can tell the answer will be `y = x * 2`, but it will be not easy to guess if you have millions of data. But from the data we can say the equation will be something like $$ y = x \times weight $$.
 
 ## The Neuron
 
